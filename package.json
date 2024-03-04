@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-rest",
+  "version": "1.0.0",
+  "description": "Belajar nodejs",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ziadrahmatullah/nodejs-rest"
+  },
+  "author": "Muhammad Ziad Rahamatullah",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "joi": "^17.12.2"
+  }
+}
